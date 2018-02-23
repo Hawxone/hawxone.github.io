@@ -1,0 +1,42 @@
+
+h1{
+  opacity: 1;
+}
+.jumbotron:first-of-type{
+  background:rgba(255, 255, 255, 0.5);
+}
+.jumbotron:last-of-type{
+  background:rgba(255, 255, 255, 0.5);
+}
+.top-buffer{
+  margin-top: 50px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c9ddff;
+    color: white;
+    text-align: center;
+}
+
+.con:link {
+    color: red;
+}
+
+/* visited link */
+.con:visited {
+    color: black;
+}
+
+/* mouse over link */
+.con:hover {
+    color: #3baece;
+}
+
+/* selected link */
+.con:active {
+    color: #a0a0a0;
+}
