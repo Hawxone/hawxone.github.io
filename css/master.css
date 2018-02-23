@@ -1,13 +1,9 @@
 
-h1{
-  opacity: 1;
-}
-.jumbotron:first-of-type{
+
+#jumbo{
   background:rgba(255, 255, 255, 0.5);
 }
-.jumbotron:last-of-type{
-  background:rgba(255, 255, 255, 0.5);
-}
+
 .top-buffer{
   margin-top: 50px;
 }
@@ -23,7 +19,7 @@ h1{
 }
 
 .con:link {
-    color: red;
+    color: black;
 }
 
 /* visited link */
